@@ -1,0 +1,82 @@
+body {
+    font-family: Literata, sans-serif;
+    color: black;
+    background-color: 	#C0C0C0;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    font-size: 10em;
+    font-family: Dancing Script, sans-serif;
+}
+
+
+
+
+
+section {
+    
+    margin: 30px;
+    margin-top: 0px;
+    
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 20px;
+
+}
+
+nav a:hover {
+   border: 5px solid; 
+    padding: 1%;
+}
+
+img{
+    
+    float: left;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    
+}
+
+h2 {
+    
+    padding: 2%;
+    font-size: 3em;
+    padding-bottom: .5%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer {
+    
+    text-align: center;
+}
+
+p {
+  word-spacing: 5px;  
+}
+
+
+
+
+
+
+
+
+
+
+
